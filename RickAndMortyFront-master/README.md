@@ -1,4 +1,11 @@
 # RickAndMortyFront
+Modificaciones: 
+-Se agrego la categoria especie
+-Se agrego la categoria Origen
+-Se agrego la categoria Estatus
+
+Intente crear una lista para que pudiera mostrar la categoria Episodio pero me dio un error y no pude solucionarlo, entonces lo deje asi :(
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 ## Basic Commands to generate this app
